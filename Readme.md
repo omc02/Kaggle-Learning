@@ -11,10 +11,8 @@ Load and understand your data. Check out the notebook [here](https://github.com/
 #### Section 3 - Your First Machine Learning Model
 Building your first model. Hurray! Check out the notebook [here](https://github.com/omc02/Kaggle-Learning/blob/main/Introduction%20to%20Machine%20Learning/03-exercise-your-first-machine-learning-model_Omar%20Chehab.ipynb).
 
-
 #### Section 4 - Model Validation
 Measure the performance of your model ? so you can test and compare alternatives. Check out the notebook [here](https://github.com/omc02/Kaggle-Learning/blob/main/Introduction%20to%20Machine%20Learning/04-exercise-model-validation.ipynb).
-
 
 #### Section 5 - Underfitting and Overfitting
 Fine-tune your model for better performance. Check out the notebook [here](https://github.com/omc02/Kaggle-Learning/blob/main/Introduction%20to%20Machine%20Learning/05-exercise-underfitting-and-overfitting.ipynb).
@@ -25,3 +23,24 @@ Using a more sophisticated machine learning algorithm. Check out the notebook [h
 
 #### Section 7 - Exercise: Machine Learning Competitions
 Enter the world of machine learning competitions to keep improving and see your progress. Check out the notebook [here](https://github.com/omc02/Kaggle-Learning/blob/main/Introduction%20to%20Machine%20Learning/07-exercise-machine-learning-competitions.ipynb).
+
+
+## Pandas 
+
+#### Section 1 - Creating, Reading and Writing
+You can't work with data if you can't read it. Get started here.
+
+#### Section 2 - Indexing, Selecting & Assigning
+Pro data scientists do this dozens of times a day. You can, too!
+
+#### Section 3 - Summary Functions and Maps
+Extract insights from your data.
+
+#### Section 4 - Grouping and Sorting
+Scale up your level of insight. The more complex the dataset, the more this matters.
+
+#### Section 5 - Data Types and Missing Values
+Deal with the most common progress-blocking problems.
+
+#### Section 6 - Renaming and Combining
+Data comes in from many sources. Help it all make sense together.
