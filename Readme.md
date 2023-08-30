@@ -2,13 +2,13 @@
 
 ## Introduction to Machine Learning
 
-Section 1 - How Models Work
+### Section 1 - How Models Work
 The first step if you're new to machine learning. 
 
-Section 2 - Basic Data Exploration
+### Section 2 - Basic Data Exploration
 Load and understand your data. Check out the notebook [here](https://github.com/omc02/Kaggle-Learning/blob/main/Introduction%20to%20Machine%20Learning/02-exercise-explore-your-data_Omar%20Chehab.ipynb).
 
-Section 3 - Your First Machine Learning Model
+### Section 3 - Your First Machine Learning Model
 Building your first model. Hurray! Check out the notebook [here](https://github.com/omc02/Kaggle-Learning/blob/main/Introduction%20to%20Machine%20Learning/03-exercise-your-first-machine-learning-model_Omar%20Chehab.ipynb).
 
 
