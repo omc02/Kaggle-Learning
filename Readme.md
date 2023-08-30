@@ -1,6 +1,6 @@
 # Kaggle Courses
 
-## Intro to Machine Learning
+## Introduction to Machine Learning
 
 Section 1 - How Models Work
 The first step if you're new to machine learning. 
